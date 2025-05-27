@@ -6,7 +6,7 @@
 
 ## 🏄‍♂️ What is Surf for Plex?
 
-**TikTok meets Plex.** Surf for Plex brings the addictive vertical video browsing experience to your personal media library. Jump into random moments from random videos in your Plex collection and discover content you forgot you had.
+**TikTok meets Plex.** Surf for Plex brings the vertical video browsing experience to your personal media library. Jump into random moments from random videos in your Plex collection and discover content you forgot you had.
 
 ## ✨ Features
 
